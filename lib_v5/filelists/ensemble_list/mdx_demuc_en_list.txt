@@ -1,0 +1,12 @@
+No Model
+No Model
+MDX-Net: UVR-MDX-NET 1
+MDX-Net: UVR-MDX-NET 2
+MDX-Net: UVR-MDX-NET 3
+MDX-Net: UVR-MDX-NET Karaoke
+MDX-Net: UVR-MDX-NET Main
+Demucs: UVR_Demucs_Model_1
+Demucs: UVR_Demucs_Model_2
+Demucs: UVR_Demucs_Model_Bag
+Demucs: mdx_extra
+Demucs: mdx_extra_q
