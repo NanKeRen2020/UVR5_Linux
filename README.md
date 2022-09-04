@@ -2,7 +2,9 @@
 
 ## About
 
-This project transfrom UVR 5.4[1] from windows to linux ubuntu 1604 platforms, maybe reimplement it in C/C++. 
+This project transfrom UVR 5.4[1] from windows to linux ubuntu 1604 platforms, maybe reimplement it in C/C++ 
+
+in future. 
 
 ## Installation & Run
 
@@ -19,15 +21,12 @@ pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f ht
 1. Download the Source code.
 2. Download the models via the "Settings" menu within the application.
 3. Extract the *ultimatevocalremovergui-master* folder within ultimatevocalremovergui-master.zip where ever you wish.
-4. run ./UVR.py, main interface show as below
+4. run python3.9 UVR.py, main interface show as below
 
 ![image](https://github.com/NanKeRen2020/UVR5_Linux/blob/main/main.png)
 
-You can get more detail and update from the original project[1]
+You can get more detail and update from the original project[1].
 
-## License
-
-The **Ultimate Vocal Remover GUI** code is [MIT-licensed](LICENSE). 
 
 ## References
 
