@@ -2,9 +2,7 @@
 
 ## About
 
-This project transfrom UVR 5.4[1] from windows to linux ubuntu 1604 platforms, maybe reimplement it in C/C++ 
-
-in future. 
+This project transfrom UVR 5.4[1] from windows to linux ubuntu1604 platform, maybe reimplement it in C/C++ in future. 
 
 ## Installation & Run
 
@@ -30,6 +28,6 @@ You can get more detail and update from the original project[1].
 
 ## References
 
-[1] https://github.com/Anjok07/ultimatevocalremovergui
+[1] https://github.com/Anjok07/ultimatevocalremovergui.
 
-[2] Takahashi et al., "Multi-scale Multi-band DenseNets for Audio Source Separation", https://arxiv.org/pdf/1706.09588.pdf
+[2] Takahashi et al., "Multi-scale Multi-band DenseNets for Audio Source Separation", https://arxiv.org/pdf/1706.09588.pdf.
