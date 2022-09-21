@@ -18,7 +18,7 @@ import tkinter.font
 from tkinterdnd2 import TkinterDnD, DND_FILES  # Enable Drag & Drop
 import pyglet,tkinter
 from datetime import datetime
-from ttkthemes import ThemedTk
+#from ttkthemes import ThemedTk
 
 # Images
 from PIL import Image
@@ -41,7 +41,7 @@ import webbrowser
 from tracemalloc import stop
 
 import lib_v5.sv_ttk
-import sv_ttk
+#import sv_ttk
 #import ttkbootstrap as ttkbs
 #from ttkbootstrap.constants import *
 
