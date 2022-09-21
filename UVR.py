@@ -3255,7 +3255,7 @@ class MainWindow(TkinterDnD.Tk):
 
         # change title bar icon
         #top.iconbitmap('img/UVR-Icon-v2.ico')
-        top.iconphoto(False, tk.PhotoImage(file='/home/gao2020/personal_projects/ultimatevocalremovergui-5.4.0/img/UVR-Icon-v2.gif'))
+        top.iconphoto(False, tk.PhotoImage(file='img/UVR-Icon-v2.gif'))
 
         def close_win():
             top.destroy()
@@ -3392,7 +3392,7 @@ class MainWindow(TkinterDnD.Tk):
 
         # change title bar icon
         #top.iconbitmap('img/UVR-Icon-v2.ico')
-        top.iconphoto(False, tk.PhotoImage(file='/home/gao2020/personal_projects/ultimatevocalremovergui-5.4.0/img/UVR-Icon-v2.gif'))
+        top.iconphoto(False, tk.PhotoImage(file='img/UVR-Icon-v2.gif'))
 
         def close_win():
             top.destroy()
@@ -3485,7 +3485,7 @@ class MainWindow(TkinterDnD.Tk):
 
         # change title bar icon
         #top.iconbitmap('img/UVR-Icon-v2.ico')
-        top.iconphoto(False, tk.PhotoImage(file='/home/gao2020/personal_projects/ultimatevocalremovergui-5.4.0/img/UVR-Icon-v2.gif'))
+        top.iconphoto(False, tk.PhotoImage(file='img/UVR-Icon-v2.gif'))
 
         def close_win():
             top.destroy()
@@ -3691,7 +3691,7 @@ class MainWindow(TkinterDnD.Tk):
 
         # change title bar icon
         #top.iconbitmap('img/UVR-Icon-v2.ico')
-        top.iconphoto(False, tk.PhotoImage(file='/home/gao2020/personal_projects/ultimatevocalremovergui-5.4.0/img/UVR-Icon-v2.gif'))
+        top.iconphoto(False, tk.PhotoImage(file='img/UVR-Icon-v2.gif'))
 
         def close_win():
             top.destroy()
@@ -4046,7 +4046,7 @@ class MainWindow(TkinterDnD.Tk):
 
         # change title bar icon
         #top.iconbitmap('img/UVR-Icon-v2.ico')
-        top.iconphoto(False, tk.PhotoImage(file='/home/gao2020/personal_projects/ultimatevocalremovergui-5.4.0/img/UVR-Icon-v2.gif'))
+        top.iconphoto(False, tk.PhotoImage(file='img/UVR-Icon-v2.gif'))
 
         def close_win():
             top.destroy()
@@ -4371,8 +4371,8 @@ class MainWindow(TkinterDnD.Tk):
         top.geometry("{}x{}+{}+{}".format(window_width, window_height, x_cordinate, y_cordinate))
 
         # change title bar icon
-        #top.iconbitmap('/home/gao2020/personal_projects/ultimatevocalremovergui1/img/UVR-Icon-v2.gif')
-        top.iconphoto(False, tk.PhotoImage(file='/home/gao2020/personal_projects/ultimatevocalremovergui-5.4.0/img/UVR-Icon-v2.gif'))
+        #top.iconbitmap('img/UVR-Icon-v2.gif')
+        top.iconphoto(False, tk.PhotoImage(file='img/UVR-Icon-v2.gif'))
         
 
         def askyesorno():
@@ -4404,8 +4404,8 @@ class MainWindow(TkinterDnD.Tk):
             top_dialoge.geometry("{}x{}+{}+{}".format(window_width, window_height, x_cordinate, y_cordinate))
 
             # change title bar icon
-            #top_dialoge.iconbitmap('/home/gao2020/personal_projects/ultimatevocalremovergui1/img/UVR-Icon-v2.gif')
-            top_dialoge.iconphoto(False, tk.PhotoImage(file='/home/gao2020/personal_projects/ultimatevocalremovergui-5.4.0/img/UVR-Icon-v2.gif'))
+            #top_dialoge.iconbitmap('img/UVR-Icon-v2.gif')
+            top_dialoge.iconphoto(False, tk.PhotoImage(file='img/UVR-Icon-v2.gif'))
 
             tabControl = ttk.Notebook(top_dialoge)
 
@@ -4687,7 +4687,7 @@ class MainWindow(TkinterDnD.Tk):
 
             # change title bar icon
             #top_code.iconbitmap('img/UVR-Icon-v2.ico')
-            top_code.iconphoto(False, tk.PhotoImage(file='/home/gao2020/personal_projects/ultimatevocalremovergui-5.4.0/img/UVR-Icon-v2.gif'))
+            top_code.iconphoto(False, tk.PhotoImage(file='img/UVR-Icon-v2.gif'))
 
             tabControl = ttk.Notebook(top_code)
 
@@ -4800,7 +4800,7 @@ class MainWindow(TkinterDnD.Tk):
 
             # change title bar icon
             #top_code.iconbitmap('img/UVR-Icon-v2.ico')
-            top_code.iconphoto(True, tk.PhotoImage(file='/home/gao2020/personal_projects/ultimatevocalremovergui-5.4.0/img/UVR-Icon-v2.gif'))
+            top_code.iconphoto(True, tk.PhotoImage(file='img/UVR-Icon-v2.gif'))
 
             tabControl = ttk.Notebook(top_code)
 
@@ -6086,7 +6086,7 @@ class MainWindow(TkinterDnD.Tk):
 
         # change title bar icon
         #top.iconbitmap('img/UVR-Icon-v2.ico')
-        top.iconphoto(False, tk.PhotoImage(file='/home/gao2020/personal_projects/ultimatevocalremovergui-5.4.0/img/UVR-Icon-v2.gif'))
+        top.iconphoto(False, tk.PhotoImage(file='img/UVR-Icon-v2.gif'))
 
         def close_win():
             top.destroy()
