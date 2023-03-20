@@ -16,10 +16,10 @@ pip install --no-cache-dir -r requirements.txt
 
 pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
 
-1. Download the Source code.
-2. Download the models via the "Settings" menu within the application.
-3. Extract the *ultimatevocalremovergui-master* folder within ultimatevocalremovergui-master.zip where ever you wish.
-4. run python3.9 UVR.py, main interface show as below
+1. clone the Source code.
+2. Download the models via the "Settings" menu within the application
+   or download from original project[1]. 
+3. run python3.9 UVR.py, main interface show as below
 
 ![image](https://github.com/NanKeRen2020/UVR5_Linux/blob/main/main.png)
 
